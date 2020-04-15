@@ -1,6 +1,8 @@
 # chrome-extension
 Chrome Extension to export single search results from LinkedIn Sales Navigator to Hubspot
 
+![Image description](link-to-image)
+
 ## Installation notes
 To install this extension manually, download the repository as a zip and extract it.
 
